@@ -1,18 +1,20 @@
 # Hi there, I'm Yash Agrawal 👋
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-agrawal-208841307/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Yash__Sensei/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=globe)](https://my-portfolio-ashen-omega-15.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yashagrawalrkt123@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agrawal-208841307/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=globe&logoColor=white)](https://my-portfolio-ashen-omega-15.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yash__Sensei/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashagrawalrkt123@gmail.com)
+
 </div>
 
 ## 🎯 About Me
 
-I'm a passionate developer pursuing my BSc at **BITS Pilani** and **Scaler School of Technology**. My goal is to build empathetic, AI-powered solutions that improve lives, especially in healthcare. I love combining my coding skills with a deep understanding of real-world needs to create technology that cares.
+I'm a passionate developer pursuing my BSc in computer science at **BITS Pilani** and **Scaler School of Technology**. My goal is to build empathetic, AI-powered solutions that improve lives, especially in healthcare. I love combining my coding skills with a deep understanding of real-world needs to create technology that cares.
 
 ### What I'm Up To
-- 🏥 Working on **AI-powered healthcare solutions** (previously at [MagnumKare](https://magnumkare.com))
+- 🏥 Worked on frontend at an agency (previously at [MagnumKare](https://magnumkare.com))
 - 🤖 Developing intelligent interfaces for hospital data and patient interaction
 - 💡 Tackling real-world problems with a mix of **code, creativity, and curiosity**
 - 🎓 Leveling up in **Machine Learning**, **Django**, and **modern web tech**
@@ -25,7 +27,6 @@ I'm a passionate developer pursuing my BSc at **BITS Pilani** and **Scaler Schoo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
