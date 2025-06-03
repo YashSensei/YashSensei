@@ -14,10 +14,10 @@
 I'm a passionate developer pursuing my BSc in computer science at **BITS Pilani** and **Scaler School of Technology**. My goal is to build empathetic, AI-powered solutions that improve lives, especially in healthcare. I love combining my coding skills with a deep understanding of real-world needs to create technology that cares.
 
 ### What I'm Up To
-- 🏥 Worked on frontend at an agency (previously at [MagnumKare](https://magnumkare.com))
-- 🤖 Developing intelligent interfaces for hospital data and patient interaction
-- 💡 Tackling real-world problems with a mix of **code, creativity, and curiosity**
-- 🎓 Leveling up in **Machine Learning**, **Django**, and **modern web tech**
+- Worked on frontend at an agency (previously at [MagnumKare](https://magnumkare.com))
+- Constantly working on some project everyday
+- Tackling real-world problems with a mix of **code, creativity, and curiosity**
+- Leveling up in **Machine Learning**, **Django**, and **modern web tech**
 
 ---
 
