@@ -1,54 +1,75 @@
-<h1 align="center">Hi 👋, I'm Yash Agrawal</h1>
-<h3 align="center">A Passionate Developer | Healthcare Innovator | Culture Enthusiast</h3>
+# Hi there, I'm Yash Agrawal 👋
+
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-agrawal-208841307/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Yash__Sensei/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=globe)](https://my-portfolio-ashen-omega-15.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yashagrawalrkt123@gmail.com)
+</div>
+
+## 🎯 About Me
+
+I'm a passionate developer pursuing my BSc at **BITS Pilani** and **Scaler School of Technology**. My goal is to build empathetic, AI-powered solutions that improve lives, especially in healthcare. I love combining my coding skills with a deep understanding of real-world needs to create technology that cares.
+
+### What I'm Up To
+- 🏥 Working on **AI-powered healthcare solutions** (previously at [MagnumKare](https://magnumkare.com))
+- 🤖 Developing intelligent interfaces for hospital data and patient interaction
+- 💡 Tackling real-world problems with a mix of **code, creativity, and curiosity**
+- 🎓 Leveling up in **Machine Learning**, **Django**, and **modern web tech**
 
 ---
 
-🌱 I’m currently building **AI tools for hospitals** through my agency, [MagnumKare](https://magnumkare.com)  
-🧠 Exploring **Machine Learning**, **Django**, and real-world **data-backed AI interfaces**  
-💻 I love solving **DSA problems** on LeetCode and bringing **creative solutions** to healthcare  
-🎭 Cultural all-rounder — guitarist, lyricist, dancer, poet, cook, and basketball player  
-📚 Currently pursuing a BSc at **BITS Pilani** and expanding my coding + design skill set  
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/-Python-333?&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=javascript) 
-![Django](https://img.shields.io/badge/-Django-333?&logo=django&logoColor=green)
-![React](https://img.shields.io/badge/-React-333?&logo=react) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333?&logo=tailwind-css)
-![HTML](https://img.shields.io/badge/-HTML-333?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333?&logo=git)
+### 🩺 [Doctor Dashboard Prototype](https://health-nivaran-doctor-dash.vercel.app/)
+An interactive prototype of a **doctor's dashboard**—designed for hospitals using a WhatsApp-based AI assistant. It shows how doctors can manage chats, patients, and clinical data in one place.
+
+### 📚 [Kitabi Keeda](https://kitabi-keeda-six.vercel.app/)
+A smart **book discovery and reading management app**. Just type what you're in the mood for—like _"Harry Potter but darker and in space"_—and get recommendations. Create lists, track progress, rate books, and connect with fellow readers.
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 📊 GitHub Stats
 
-- 🔬 [PocDoc](https://github.com/your-username/PocDoc) — Conversational AI-based Pocket Doctor for hospitals  
-- 🧠 AI Chat Interface — Chat with your hospital’s data directly (coming soon!)  
-- 🧩 DSA Practice — Daily grind on [LeetCode](https://leetcode.com/your-leetcode-profile)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YashSensei&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" />
+<br>
+<img src="https://streak-stats.demolab.com/?user=YashSensei&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSensei&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Yash's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-## 🌍 Let's Connect!
+<div align="center">
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-agrawal-208841307/)
-- 🧠 [LeetCode](https://leetcode.com/u/Yash__Sensei/)
-- 💻 [Portfolio Website](https://my-portfolio-ashen-omega-15.vercel.app/)
-- 📫 Email: yashagrawalrkt123@gmail.com
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Code+with+purpose;Create+with+passion;Care+with+empathy" alt="Typing SVG" />
+
+</div>
 
 ---
 
-_“Code with purpose. Create with passion. Care with empathy.”_  
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YashSensei&color=blueviolet&style=flat-square)
+
+</div>
