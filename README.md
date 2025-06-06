@@ -1,4 +1,4 @@
-# Hi there, I'm Yash Agrawal 👋
+# Hi there, I'm Yash Agrawal aka Kirito👋
 
 <div align="center">
 
