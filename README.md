@@ -1,77 +1,48 @@
-# Hi there, I'm Yash Agrawal 👋
+# Yash Agrawal
 
-<div align="center">
+Full Stack & Backend Developer | Bangalore, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-agrawal-208841307/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=globe&logoColor=white)](https://my-portfolio-ashen-omega-15.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yash__Sensei/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashagrawalrkt123@gmail.com)
-
-</div>
-
-## 🎯 About Me
-
-I'm a passionate developer pursuing my BSc in computer science at **BITS Pilani** and **Scaler School of Technology**. My goal is to build empathetic, AI-powered solutions that improve lives, especially in healthcare. I love combining my coding skills with a deep understanding of real-world needs to create technology that cares.
-
-### What I'm Up To
-- Worked on frontend at an agency (previously at [MagnumKare](https://magnumkare.com))
-- Constantly working on some project everyday
-- Tackling real-world problems with a mix of **code, creativity, and curiosity**
-- Leveling up in **Machine Learning**, **Django**, and **modern web tech**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-agrawal-208841307)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-ashen-omega-15.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashagrawalrkt123@gmail.com)
 
 ---
 
-## 🛠️ Tech Arsenal
+## About
 
-<div align="center">
+Product-minded developer experienced in building scalable systems, AI-powered platforms, and real-time applications. Scaled a platform from 0 to 190k users.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+**Education:** B.Sc. Computer Science @ BITS Pilani (2027) | Scaler School of Technology
 
 ---
 
-## 🚀 Featured Projects
+## Experience
 
-### 🩺 [Doctor Dashboard Prototype](https://health-nivaran-doctor-dash.vercel.app/)
-An interactive prototype of a **doctor's dashboard**—designed for hospitals using a WhatsApp-based AI assistant. It shows how doctors can manage chats, patients, and clinical data in one place.
-
-### 📚 [Kitabi Keeda](https://kitabi-keeda-six.vercel.app/)
-A smart **book discovery and reading management app**. Just type what you're in the mood for—like _"Harry Potter but darker and in space"_—and get recommendations. Create lists, track progress, rate books, and connect with fellow readers.
+- **Product Manager / Engineer** @ MegaLLM.io (Oct 2025 - Present)
+- **Full Stack Developer Intern** @ Matiks.com (Jul - Sept 2025)
+- **Full Stack Developer** @ Health Nivaran (Feb - Sept 2025)
+- **Frontend Developer** @ MagnumKare (Jun 2024 - Jan 2025)
 
 ---
 
-## 📊 GitHub Stats
+## Skills
 
-<div align="center">
+**Languages:** JavaScript, TypeScript, Go, SQL
+**Backend:** Node.js, Express, Gin-Gonic, MongoDB, Redis, WebSockets
+**Tools:** Git, Docker, Vercel, LLM APIs
 
-<img src="https://github-readme-stats.vercel.app/api?username=YashSensei&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" />
-<br>
-<img src="https://streak-stats.demolab.com/?user=YashSensei&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSensei&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
+---
 
-</div>
+## Projects
+
+- [**URL Shortener**](https://github.com/YashSensei/url-shortner) - Scalable URL shortening with Redis rate limiting & Docker
+- [**Chatify**](https://github.com/YashSensei/Chatify) - Real-time chat app with MERN + Socket.io
+- **AlgoWars** - 1v1 competitive coding platform (MVP/Design)
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Code+with+purpose;Create+with+passion;Care+with+empathy" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YashSensei&color=blueviolet&style=flat-square)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashSensei&show_icons=true&theme=dark&hide_border=true&hide_title=true)
 
 </div>
