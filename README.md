@@ -43,6 +43,6 @@ Product-minded developer experienced in building scalable systems, AI-powered pl
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashSensei&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YashSensei&theme=dark&hide_border=true)](https://github.com/YashSensei)
 
 </div>
