@@ -4,7 +4,7 @@ Full Stack & Backend Developer | Bangalore, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-agrawal-208841307)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=flat&logo=x&logoColor=white)](https://x.com/Yash__Sensei)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yashsite.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yashagrawal.me)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashagrawalrkt123@gmail.com)
 
 ---
