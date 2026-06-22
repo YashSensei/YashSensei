@@ -19,7 +19,10 @@ Product-minded developer experienced in building scalable systems, AI-powered pl
 
 ## Experience
 
-- **Product Manager / Engineer** @ MegaLLM.io (Oct 2025 - Present)
+- **Co-Founder** @ pods.ml (Present)
+- **Co-Founder** @ Algowars.online (Present)
+- **SWE intern / Grwoth Hacker** @ Omium.ai (Jan 2026 - May 2026)
+- **Product Manager / Engineer** @ MegaLLM.io (Oct 2025 - Jan 2025)
 - **Full Stack Developer Intern** @ Matiks.com (Jul - Sept 2025)
 - **Full Stack Developer** @ Health Nivaran (Feb - Sept 2025)
 - **Frontend Developer** @ MagnumKare (Jun 2024 - Jan 2025)
