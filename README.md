@@ -2,11 +2,11 @@
 
 My best repos are private. Convenient, I know. [My portfolio has the proof](https://yashagrawal.me/tech).
 
-Co-founder of **[PodsMl](https://pods.ml)** and **[AlgoWars](https://algowars.online)**. Currently contributing to **[creo.wtf](https://creo.wtf)**. I build AI infrastructure and real-time products, and handle product and operations alongside engineering.
+I build AI infrastructure and real-time products, and handle product and operations alongside engineering. Currently contributing to **[creo.wtf](https://creo.wtf)**.
 
 B.Sc. Computer Science at BITS Pilani, graduating in 2027.
 
-[LinkedIn](https://linkedin.com/in/yash-agrawal-208841307) · [X](https://x.com/Yash__Sensei) · [Email](mailto:yashagrawalrkt123@gmail.com)
+[LinkedIn](https://linkedin.com/in/yash-agrawal-208841307) · [X](https://x.com/Yash__Sensei) · yashagrawalrkt123@gmail.com
 
 ## Building
 
