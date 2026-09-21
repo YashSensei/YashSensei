@@ -2,7 +2,7 @@
 
 My best repos are private. Convenient, I know. [My portfolio has the proof](https://yashagrawal.me/tech).
 
-I build AI infrastructure, backend systems, and real-time products. Co-founder at **PodsMl**, where I write code and handle product and operations.
+Co-founder of **[PodsMl](https://pods.ml)** and **[AlgoWars](https://algowars.online)**. Currently contributing to **[creo.wtf](https://creo.wtf)**. I build AI infrastructure and real-time products, and handle product and operations alongside engineering.
 
 B.Sc. Computer Science at BITS Pilani, graduating in 2027.
 
