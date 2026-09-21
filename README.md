@@ -1,6 +1,6 @@
 # Yash Agrawal
 
-My best repos are private. Convenient, I know. [My portfolio has the proof](https://yashagrawal.me).
+My best repos are private. Convenient, I know. [My portfolio has the proof](https://yashagrawal.me/tech).
 
 I build AI infrastructure, backend systems, and real-time products. Co-founder at **PodsMl**, where I write code and handle product and operations.
 
