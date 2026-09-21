@@ -15,8 +15,8 @@ B.Sc. Computer Science at BITS Pilani, graduating in 2027.
 
 ## Previously
 
-- **Omium**: Built the frontend architecture, improved performance and SEO, and worked across product and growth operations.
-- **MegaLLM**: Led early frontend development, worked on API reliability, and managed engineering workflows. Helped grow the product from 0 to 190,000 users.
+- **Omium**: Built the product architecture, improved performance and SEO, and worked across product and growth operations.
+- **MegaLLM**: Led early product development, worked on API reliability, and managed engineering workflows. Helped grow the product from 0 to 190,000 users.
 - **Matiks**: Built Go and TypeScript backend services, WebSocket chat, and a daily engagement system as a full-stack intern.
 
 ## Stack
