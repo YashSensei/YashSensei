@@ -1,10 +1,12 @@
 # Yash Agrawal
 
-Full-stack engineer and co-founder at **PodsMl**. I build AI infrastructure, backend systems, and real-time products, and handle product and operations alongside engineering.
+My best repos are private. Convenient, I know. [My portfolio has the proof](https://yashagrawal.me).
+
+I build AI infrastructure, backend systems, and real-time products. Co-founder at **PodsMl**, where I write code and handle product and operations.
 
 B.Sc. Computer Science at BITS Pilani, graduating in 2027.
 
-[Portfolio](https://yashagrawal.me) · [LinkedIn](https://linkedin.com/in/yash-agrawal-208841307) · [X](https://x.com/Yash__Sensei) · [Email](mailto:yashagrawalrkt123@gmail.com)
+[LinkedIn](https://linkedin.com/in/yash-agrawal-208841307) · [X](https://x.com/Yash__Sensei) · [Email](mailto:yashagrawalrkt123@gmail.com)
 
 ## Building
 
