@@ -1,52 +1,24 @@
 # Yash Agrawal
 
-Full Stack & Backend Developer | Bangalore, India
+Full-stack engineer and co-founder at **PodsMl**. I build AI infrastructure, backend systems, and real-time products, and handle product and operations alongside engineering.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-agrawal-208841307)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat&logo=x&logoColor=white)](https://x.com/Yash__Sensei)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yashagrawal.me)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashagrawalrkt123@gmail.com)
+B.Sc. Computer Science at BITS Pilani, graduating in 2027.
 
----
+[Portfolio](https://yashagrawal.me) · [LinkedIn](https://linkedin.com/in/yash-agrawal-208841307) · [X](https://x.com/Yash__Sensei) · [Email](mailto:yashagrawalrkt123@gmail.com)
 
-## About
+## Building
 
-Product-minded developer experienced in building scalable systems, AI-powered platforms, and real-time applications. Scaled a platform from 0 to 190k users.
+- **[PodsMl](https://pods.ml)**: A deployment platform for AI agents, coding sandboxes, and game servers. Built the console, APIs, browser terminals, execution across multiple servers, usage billing, and a managed model gateway.
+- **[AlgoWars](https://algowars.online)**: A real-time 1v1 coding platform with 500+ registered users. Built with TypeScript, Bun, Hono, PostgreSQL, Socket.IO, and virtual machines.
 
-**Education:** B.Sc. Computer Science @ BITS Pilani (2027) | Scaler School of Technology
+## Previously
 
----
+- **Omium**: Built the frontend architecture, improved performance and SEO, and worked across product and growth operations.
+- **MegaLLM**: Led early frontend development, worked on API reliability, and managed engineering workflows. Helped grow the product from 0 to 190,000 users.
+- **Matiks**: Built Go and TypeScript backend services, WebSocket chat, and a daily engagement system as a full-stack intern.
 
-## Experience
+## Stack
 
-- **Co-Founder** @ pods.ml (Present)
-- **Co-Founder** @ Algowars.online (Present)
-- **SWE intern / Grwoth Hacker** @ Omium.ai (Jan 2026 - May 2026)
-- **Product Manager / Engineer** @ MegaLLM.io (Oct 2025 - Jan 2025)
-- **Full Stack Developer Intern** @ Matiks.com (Jul - Sept 2025)
-- **Full Stack Developer** @ Health Nivaran (Feb - Sept 2025)
-- **Frontend Developer** @ MagnumKare (Jun 2024 - Jan 2025)
+TypeScript, JavaScript, Go, Python, SQL · React, Next.js, Node.js, Bun, Hono · PostgreSQL, MongoDB, Redis · Docker, Linux, Cloudflare Workers
 
----
-
-## Skills
-
-**Languages:** JavaScript, TypeScript, Go, SQL
-**Backend:** Node.js, Express, Gin-Gonic, MongoDB, Redis, WebSockets
-**Tools:** Git, Docker, Vercel, LLM APIs
-
----
-
-## Projects
-
-- [**URL Shortener**](https://github.com/YashSensei/url-shortner) - Scalable URL shortening with Redis rate limiting & Docker
-- [**Chatify**](https://github.com/YashSensei/Chatify) - Real-time chat app with MERN + Socket.io
-- **AlgoWars** - 1v1 competitive coding platform (MVP/Design)
-
----
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YashSensei&theme=dark&hide_border=true)](https://github.com/YashSensei)
-
-</div>
+Open to software engineering internships and junior roles in India or remote from India.
