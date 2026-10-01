@@ -2,7 +2,8 @@
 
 My best repos are private. Convenient, I know. [My portfolio has the proof](https://yashagrawal.me/tech).
 
-I build AI infrastructure and real-time products, and handle product and operations alongside engineering. Currently contributing to **[creo.wtf](https://creo.wtf)**.
+I build AI infrastructure and real-time products, and handle product and operations alongside engineering.
+Currently contributing to **[creo.wtf](https://creo.wtf)**.
 
 B.Sc. Computer Science at BITS Pilani, graduating in 2027.
 
