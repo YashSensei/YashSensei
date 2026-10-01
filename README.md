@@ -9,6 +9,8 @@ B.Sc. Computer Science at BITS Pilani, graduating in 2027.
 
 [LinkedIn](https://linkedin.com/in/yash-agrawal-208841307) · [X](https://x.com/Yash__Sensei) · yashagrawalrkt123@gmail.com
 
+Open to software engineering internships and junior roles in India or remote from India.
+
 ## Building
 
 - **[PodsMl](https://pods.ml)**: A deployment platform for AI agents, coding sandboxes, and game servers. Built the console, APIs, browser terminals, execution across multiple servers, usage billing, and a managed model gateway.
@@ -25,5 +27,3 @@ B.Sc. Computer Science at BITS Pilani, graduating in 2027.
 <img src="https://skillicons.dev/icons?i=ts,go,py,react,postgres,redis,docker,cloudflare" alt="TypeScript, Go, Python, React, PostgreSQL, Redis, Docker, and Cloudflare" height="40">
 
 TypeScript, JavaScript, Go, Python, SQL · React, Next.js, Node.js, Bun, Hono · PostgreSQL, MongoDB, Redis · Docker, Linux, Cloudflare Workers
-
-Open to software engineering internships and junior roles in India or remote from India.
