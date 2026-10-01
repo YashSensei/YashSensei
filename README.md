@@ -1,8 +1,8 @@
 # Yash Agrawal
 
-My best repos are private. Convenient, I know. [My portfolio has the proof](https://yashagrawal.me/tech).
+My best repos are private. Convenient, I know. [My portfolio has the proof](https://yaxh.dev).
 
-I build AI infrastructure and real-time products, and handle product and operations alongside engineering.
+I build AI infrastructure and real-time products, and handle product and operations alongside engineering.<br>
 Currently contributing to **[creo.wtf](https://creo.wtf)**.
 
 B.Sc. Computer Science at BITS Pilani, graduating in 2027.
@@ -21,6 +21,8 @@ B.Sc. Computer Science at BITS Pilani, graduating in 2027.
 - **Matiks**: Built Go and TypeScript backend services, WebSocket chat, and a daily engagement system as a full-stack intern.
 
 ## Stack
+
+<img src="https://skillicons.dev/icons?i=ts,go,py,react,postgres,redis,docker,cloudflare" alt="TypeScript, Go, Python, React, PostgreSQL, Redis, Docker, and Cloudflare" height="40">
 
 TypeScript, JavaScript, Go, Python, SQL · React, Next.js, Node.js, Bun, Hono · PostgreSQL, MongoDB, Redis · Docker, Linux, Cloudflare Workers
 
